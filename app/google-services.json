@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "665247176740",
+    "project_id": "metlife-insurance",
+    "storage_bucket": "metlife-insurance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665247176740:android:4ec59343ba795b24c220b1",
+        "android_client_info": {
+          "package_name": "com.nibm.insuranceapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665247176740-qccol5ngaha4nl4uq6ia24vuf8r4p09d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nibm.insuranceapplication",
+            "certificate_hash": "bdd47d2cfb335625365d89efd1e5018c595b6bc8"
+          }
+        },
+        {
+          "client_id": "665247176740-fehig9o10bb71f33bcjjie3p66vrgclj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA58b9pKYpjmYx48VxfeKU1yPm25ooLh6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665247176740-fehig9o10bb71f33bcjjie3p66vrgclj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
